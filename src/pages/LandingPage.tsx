@@ -74,7 +74,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onNavigate }) => {
       {/* Hero Section */}
       <div 
         className="absolute top-0 left-0 w-full h-screen flex flex-col items-center justify-center text-center bg-cover bg-center"
-        style={{ backgroundImage: "url('/homePage_1669326868.jpg')" }}
+        style={{ backgroundImage: "url('/LandingPage.jpg')" }}
       >
         <div className="absolute top-0 left-0 w-full h-full bg-black/50"></div>
 
